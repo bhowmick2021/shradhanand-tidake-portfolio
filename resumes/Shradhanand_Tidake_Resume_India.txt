@@ -1,0 +1,135 @@
+Shradhanand V Tidake
+Data Analytics | Business Intelligence | Business Analysis | Analytics Leadership
+Mumbai, Maharashtra, India | 9769757686 | shradhanand.tidake@gmail.com | linkedin.com/in/shradhanand-v-tidake-a8b84716
+
+SUMMARY
+
+Data analytics and business intelligence professional with 15+ years of experience across operations, commercial analysis, and technology-led transformation, based in Mumbai. Strong background in SQL, BigQuery, Tableau, KPI design, data validation, and cross-functional delivery, with a record of improving data quality, automating reporting, and supporting pricing, competitive intelligence, and vendor cost savings. Combines hands-on domain-registry operations knowledge with analytics leadership and mentoring.
+
+SELECTED ACCOMPLISHMENTS
+
+Commercial Cost Optimization
+- Uncovered substantial historical excess vendor billing and contributed to restructuring annual escrow costs by more than 50%.
+- Negotiated critical domain-data-provider premium pricing, reducing the proposed annual cost by approximately 38%.
+
+Financial Risk Reduction
+- Investigated escalating Stripe disputes and coordinated corrective measures that reduced monthly dispute cases by approximately 88% (123 to 15) and monthly losses by approximately 90%.
+
+Data Quality & Reliability
+- Designed and validated ETL correction logic that reduced erroneous transaction revenue from approximately 0.60% to 0.25%.
+- Established recurring validation practices for missing coverage, abnormal volumes, source-data gaps and reporting inconsistencies.
+
+Competitive & Market Intelligence
+- Developed analytical capabilities across GoDaddy and Namecheap SERP data, keyword visibility, TLD appearance share, geographic performance, premium-domain behavior and competitive positioning.
+
+AI-Enabled Analytics Automation
+- Use AI-assisted development to extend analytical capabilities beyond traditional SQL/BI work, including building Python scrapers, scheduling production data-collection processes and solving previously difficult web-data acquisition problems.
+
+
+CORE SKILLS
+
+Data & Analytics: Data Analysis | SQL | BigQuery | Tableau (Advanced: LOD & Table Calculations, Dashboard Design) | Data Visualization | Excel | Google Sheets | Data Validation | Data Quality | Data Governance | Root Cause Analysis | Exploratory Analysis | Predictive Modeling | KPI Design & Development
+Business Analysis: Requirements Gathering | Business Requirements (BRD) | Business Logic | Process Analysis | Stakeholder Management | Solution Validation | Cross-functional Coordination
+Commercial Analytics: Pricing Analysis | Domain Economics | Renewal Analysis | Market Analysis | Channel Analysis | Competitive Analysis | Cost Optimization | NPV Analysis | IRR Analysis Support
+Automation & AI: Machine Learning | Python for Analytics & Automation | Web Scraping | Cron Scheduling | Workflow Automation | Natural Language Processing | AI Tools Integration | Automated Coding
+Leadership & Delivery: Analytics Project Leadership | Stakeholder Alignment | Vendor Management | Problem Solving | Management Reporting | Team Mentoring | Process Improvement | Risk & Issue Management
+
+PROFESSIONAL EXPERIENCE
+
+Senior Manager - Data Analytics, Radix | Mumbai, India
+July 2025 - Current
+- Led development of competitive SERP intelligence for GoDaddy and Namecheap, integrating scraping, BigQuery transformation, KPI definition, data validation, and Tableau delivery to enhance tracking of TLD appearance share, competitive positioning, keyword performance, and geographic trends.
+- Designed and delivered a standardized Namecheap SERP dashboard with corrected aggregation and denominator logic, enabling consistent appearance-share and positioning analysis across daily, weekly and monthly reporting levels.
+- Led development and refinement of GoDaddy .tech keyword analysis to identify keyword-level competitive visibility, including cases where .tech was absent while competing extensions such as .ai and .io appeared, supporting bidding and TLD-positioning analysis.
+- Expanded GoDaddy scraping and analysis into multiple geographies, collaborating with technology teams to validate data availability, identify gaps, and establish reliable analytical datasets beyond the US market.
+- Built reusable analytical solutions for GoDaddy .com positioning/spin analysis, premium-domain visibility and other competitive-search use cases, reducing the need to rebuild one-off analyses when refreshed data became available.
+- Led cross-functional analytics and decision-support initiatives spanning competitive intelligence, pricing and premium-domain analysis, SERP analytics, channel performance, data quality, market intelligence, scraping infrastructure and AI-enabled automation.
+- Built AI-assisted Python web scrapers for three client data-acquisition workflows and deployed them as locally scheduled cron processes, replacing recurring AI/token-dependent execution with automated operational workflows.
+- Used Codex-assisted development to establish a GoDaddy cart-upsell scraper, solving a data-acquisition challenge affected by Akamai blocking that had prevented successful local implementation through earlier development attempts.
+- Delivered Crunchbase time-series analytics covering company counts, funding trends, industry patterns and website-TLD behavior; applied newly acquired Python and advanced Tableau capabilities to data preparation and visualization.
+
+Business Intelligence Manager, Radix | India
+July 2022 - June 2025
+- Led Business Intelligence initiatives across business, brand, channel, finance and technology teams, translating business questions into analytical workflows, dashboards, automated reporting and decision-support outputs.
+- Developed a Tableau data-recency framework initially implemented across major data sources and subsequently expanded across six key dashboards, creating a scalable approach for monitoring reporting freshness and reliability.
+- Designed and validated ETL correction logic addressing erroneous transaction revenue; testing demonstrated a reduction in erroneous revenue proportion from approximately 0.60% to 0.25%, improving downstream data reliability.
+- Built and enhanced SERP/appearance-share reporting across GoDaddy and other registrar/client datasets, identifying historical data gaps, validating reparsed data, coordinating source corrections and improving reporting reliability for business-critical competitive metrics.
+- Automated recurring premium-domain reporting, including domain-status checks, sell-through analysis and incremental NPV summaries, creating reusable processes for time-sensitive pricing and inventory exercises.
+- Mentored analysts through recurring 1:1s, technical learning plans and project guidance, supporting development in Tableau, Python, time management, written stakeholder communication and expansion beyond routine operational responsibilities.
+- Proactively investigated a sharp increase in Stripe payment disputes (September to December 2024); identified patterns, coordinated user blocking and additional account-security measures, and helped reduce monthly dispute cases by approximately 88% (123 in November to 15 in December) and monthly losses by approximately 90%.
+- Identified a complex NCC escrow billing issue across 12 TLDs and drove commercial resolution with the vendor; uncovered substantial historical excess billing and negotiated a revised structure that reduced the annual run-rate by more than 50% versus the 2023 billed cost.
+- Consolidated escrow billing, achieving recurring annual savings, while uncovering invoicing anomalies and coordinating resolution with the provider.
+- Negotiated a WhoisXML premium-plan upgrade during 2023-24, reducing the proposed annual cost by approximately 38% while maintaining access to business-critical registration data.
+- Managed migration/onboarding to an enhanced WhoisXML API providing broader domain-registration datasets, coordinating the transition to preserve data continuity and minimize gaps in recurring analytical processes.
+
+Lead Analyst, Radix | Mumbai, India
+July 2017 - June 2022
+- Led analytics initiatives supporting business performance, registrar/channel analysis, campaign effectiveness, customer segmentation, renewal behavior, pricing and portfolio economics.
+- Partnered with Engineering, Brand, Channel and commercial stakeholders to translate business requirements into analytical logic, resolve data-integration issues, and convert recurring analytical needs into reusable BI capabilities.
+- Built and maintained business intelligence solutions using SQL, BigQuery, Tableau and Excel, supporting management reporting and recurring business decision-making.
+- Enhanced analytical dashboards and reporting processes, establishing validation practices that improved data consistency and reporting reliability.
+- Supported analysis of domain registrations, renewal behavior, registrar performance and market activity across Radix and competitor TLDs.
+- Connected domain-registry operational knowledge with structured reporting, analytics and business-facing decision support, contributing to evolution of BI function.
+
+Progression Through Operations & Analyst Roles, Radix Registry | Mumbai, India
+November 2011 - June 2017
+- Progressed through increasingly analytical roles.
+- Managed core domain-registration operations and backend processes during Radix's growth phase, developing deep knowledge of domain lifecycle, registrar processes, transaction flows and registry operations.
+- Transitioned operational knowledge into analytics and reporting responsibilities, helping bridge business processes with reporting automation and foundational BI capabilities.
+- Acquired expertise in identifying operational data issues, validating business processes, and translating domain-registry knowledge into analytical responsibilities.
+- Conducted data analysis to support decision-making processes.
+- Led in-depth analysis to identify trends and insights.
+- Supported daily operations, contributing to streamlined processes.
+- Oversaw key operational functions, enhancing overall productivity.
+
+Foreclosure Specialist, Tata Consultancy Services | Mumbai, India
+January 2010 - January 2011
+- Processed mortgage foreclosure documentation and compliance workflows for US clients, ensuring accuracy and timely delivery within service-level requirements.
+- Prepared foreclosure packets following investor guidelines and state timelines.
+- Managed foreclosure documentation for Tata Consultancy Services mortgage servicing cases.
+- Reviewed loan files for default status, title issues, and missing paperwork.
+
+Technical Support Executive, Sutherland Global Services | Mumbai, India
+August 2009 - February 2010
+- Diagnosed and resolved software and hardware issues for international customers through structured troubleshooting and effective communication.
+- Troubleshot hardware, software, and connectivity problems using knowledge base articles.
+- Assisted customers with technical issues across Sutherland Global Services support channels.
+- Documented customer interactions and case notes in CRM systems.
+
+
+EDUCATION
+
+Executive Management | Finance and Financial Management Services
+Jamnalal Bajaj Institute of Management Studies | January 2015
+
+Bachelor of Science | Chemistry
+University of Mumbai | January 2009
+
+
+CERTIFICATIONS
+
+- Fundamental of Business Analysis - Udemy (Jan 2024)
+- Data Warehouse ETL Testing & Data Quality Management A-Z - Udemy (May 2024)
+- Generative AI for data analytics - Udemy (Dec 2023)
+- Leadership - Practical Leadership Skills - Udemy (June 2024)
+- Learn SQL for Data Analysis with Google BigQuery - Udemy (July 2020)
+- Management Skills - Team Leadership Skills Masterclass - Udemy (June 2024)
+- Master Course in Tableau for Business Intelligence - Udemy (Jan 2024)
+- Productivity and Time Management - Udemy (July 2020)
+- Project Management for Non Project Managers - PMP/PMI - Udemy (Jul 2020)
+- Statistics for Data Science and Business Analysis - Udemy (Mar 2024)
+- IT Project Management - ISB (Jan 2025)
+
+PROFESSIONAL DEVELOPMENT
+
+Advanced Tableau
+Completed structured advanced Tableau learning covering: Level of Detail (LOD) calculations, advanced table calculations, advanced data preparation and analytics, groups and sets, advanced mapping, visualization techniques. Applied the learning to production analytical projects including Crunchbase time-series analytics, SERP/keyword analysis and business dashboards.
+
+Python & Data Analytics
+Completed structured coursework covering: Python Programming Essentials, Python Data Representations, Python Data Analysis, Python Data Visualization. Progressed from structured learning to practical implementation through data preparation, automation, web scraping and AI-assisted Python development.
+
+AI for Data Analytics
+Continued development in generative AI and AI-assisted analytics workflows, applying ChatGPT, Claude and Codex to analytical problem solving, code development, automation and rapid prototyping.
+
+Project / Business Analysis Development
+Completed structured learning in project management and business analysis, applying concepts including project scoping, requirements gathering, stakeholder alignment, documentation and delivery planning to cross-functional analytics initiatives.
