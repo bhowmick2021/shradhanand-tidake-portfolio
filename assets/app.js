@@ -1,4 +1,4 @@
-const AUDS = { india: "India Jobs", remote: "Remote Jobs", consultancy: "Consultancy" };
+const AUDS = { india: "For Recruiters", remote: "For Remote Teams", consultancy: "For Consulting Clients" };
 const root = document.documentElement;
 const base = "Shradhanand Tidake - Data Analytics & BI";
 function current() { const a = new URLSearchParams(location.search).get("audience"); return AUDS[a] ? a : ""; }
